@@ -1,0 +1,7 @@
+pyproject.toml
+constructional_complexity_analyzer.egg-info/PKG-INFO
+constructional_complexity_analyzer.egg-info/SOURCES.txt
+constructional_complexity_analyzer.egg-info/dependency_links.txt
+constructional_complexity_analyzer.egg-info/entry_points.txt
+constructional_complexity_analyzer.egg-info/requires.txt
+constructional_complexity_analyzer.egg-info/top_level.txt

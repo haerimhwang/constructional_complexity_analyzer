@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: constructional_complexity_analyzer
+Version: 0.1.0
+Summary: Constructional Sophistication Analyzer (CCA) is a tool designed to measure the constructional diversity, constructional sophistication, and verbal diversity of English texts.
+Author-email: Haerim Hwang <yayhaerim@gmail.com>
+License: CC-BY-NC-SA-4.0
+Project-URL: Homepage, https://github.com/haerimhwang/constructional_complexity_analyzer
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: Other/Proprietary License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: more-itertools
+Requires-Dist: scipy
+Requires-Dist: torch
+Requires-Dist: transformers
+Requires-Dist: spacy

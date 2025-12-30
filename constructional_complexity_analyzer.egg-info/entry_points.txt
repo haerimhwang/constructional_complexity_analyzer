@@ -1,0 +1,2 @@
+[console_scripts]
+constructional_complexity_analyzer = constructional_complexity_analyzer.cli:main
