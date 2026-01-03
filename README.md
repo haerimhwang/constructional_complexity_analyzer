@@ -64,14 +64,6 @@ constructional-analysis /path/to/text_files
 
 ---
 
-## Citation
-
-Hwang, H., & Kim, H. (2023). Automatic analysis of constructional diversity as a predictor of EFL students’ writing proficiency. *Applied Linguistics, 44*(1), 127–147. https://doi.org/10.1093/applin/amac046  
-
-Hwang, H. (in revision). Are the diversity measurement approaches proven effective for lexicon also suitable for syntax? Evaluating reliability and validity of ten constructional diversity indices. *Journal of Second Language Writing*.
-
----
-
 ## License
 
 This project is licensed under the  
